@@ -16,6 +16,7 @@ This project is a simple banking system implemented using Python with Flask for 
   - **exit.html**: Page for exiting the system.
 - **static/**
   - **style.css**: CSS stylesheet for styling the HTML pages.
+- **screenshots/**: Directory containing screenshots of the web pages.
 
 ## Running the Application
 
@@ -55,8 +56,28 @@ Once the application is running, you can use the following URLs to access differ
 - Balance: `http://localhost:5000/balance`
 - Exit: `http://localhost:5000/exit`
 
+## Screenshots
+
+### Homepage
+![index](https://github.com/ShivamGupta921/Banking-System/assets/144131254/e66684af-3fbe-4353-b668-083013123a64)
+
+### Deposit Page
+![deposit](https://github.com/ShivamGupta921/Banking-System/assets/144131254/ac91feb5-3184-4f08-9258-b3bd361eb223)
+
+### Withdraw Page
+![withdraw](https://github.com/ShivamGupta921/Banking-System/assets/144131254/c8847834-131a-45d7-a1e1-3b0f99bf2edf)
+
+### Balance Page
+![balance](https://github.com/ShivamGupta921/Banking-System/assets/144131254/97c5d439-9652-4913-9e1c-8fc7973554dd)
+
+### Exit Page
+![exit](https://github.com/ShivamGupta921/Banking-System/assets/144131254/92977ac3-41ac-4764-946b-88c97c542aac)
+
+
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or create a pull request on the GitHub repository.
 
 For any queries or further assistance, feel free to contact Shivam Gupta at guptashivam.muz@gmail.com.
+
+---
